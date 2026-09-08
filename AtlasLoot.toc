@@ -3,10 +3,9 @@
 ## Notes: Shows the possible loot from the bosses
 ## Notes-ruRU: Показывает возможную добычу с боссов
 ## Notes-esES: Muestra el botín de los jefes
-## Author: Daviesh, laytya, Lichery
+## Author: Dan Gilbert, Daviesh, Thandrenn | a Project Legacy fork by ziq
 ## Version: 4.07.01
 ## X-Date: 01.04.2017
-## Author: Dan Gilbert, Daviesh, Thandrenn, Asurn, Loather, Rabidmax, Dazerdude, laytya, Lichery
 ## X-Email: loglow@gmail.com
 ## X-Website: https://github.com/laytya/Atlas
 ## X-Category: Map
