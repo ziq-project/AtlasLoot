@@ -1,5 +1,5 @@
 ﻿## Interface: 11200
-## Title: AtlasLoot Enhanced
+## Title: AtlasLoot Enhanced |cff7fff7f - Project Legacy|r
 ## Notes: Shows the possible loot from the bosses
 ## Notes-ruRU: Показывает возможную добычу с боссов
 ## Notes-esES: Muestra el botín de los jefes
